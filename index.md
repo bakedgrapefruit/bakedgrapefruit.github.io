@@ -19,7 +19,7 @@ description:
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'구운 자몽'입니다. 서비스기획과 마케팅에 대한 단상을 기록합니다.</h2>
+    <h2 class="intro">'구운 자몽'입니다.<br>서비스기획과 마케팅에 대한 단상을 기록합니다.</h2>
 </section>
 </div>
 {% include resume.html %}
