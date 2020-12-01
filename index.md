@@ -3,7 +3,7 @@ layout: default
 title: "구운 자몽"
 main: true
 subtitle: 구운 자몽의 단상
-description: 
+description: 잘 구워지고 있는지 살펴보세요.
 ---
 <div class="intro-animation">
 <section class="explanation">
