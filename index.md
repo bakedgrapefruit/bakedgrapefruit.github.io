@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "구운 자몽"
+title: "구운 자몽의 단상"
 main: true
 subtitle: 구운 자몽의 단상
 description: 잘 구워지고 있는지 살펴보세요.
