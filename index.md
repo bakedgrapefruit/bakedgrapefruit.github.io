@@ -2,7 +2,7 @@
 layout: default
 title: "구운 자몽"
 main: true
-subtitle: A blog about Product Management and Marketing
+subtitle: 구운 자몽의 단상
 description: 
 ---
 <div class="intro-animation">
