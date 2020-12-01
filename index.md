@@ -12,7 +12,7 @@ description:
     </h1>
     <h1 class="intro">a Product Manager and Marketer at
         <div class="intro-link">
-            <a class="transition" href="http://ridicorp.com/" target="_blank">
+            <a class="transition" href="https://cdn57.androidauthority.net/wp-content/uploads/2018/02/Space-X-falcon-heavy-space-rocket-Quad-HD-wallpapers-3.jpg" target="_blank">
                 WHERE
             </a>
             <div class="underline-mask transition"></div>
