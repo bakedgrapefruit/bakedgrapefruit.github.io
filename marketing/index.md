@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Product Management"
-description: 정답이 아닌 해답의 존재를 찾으려고 해요.
+title: "Marketing"
+description: 순간을 연결하여 함께 할 수 있는 가치를 찾고 싶어요
 main: true
 project-header: true
 header-img: img/about.jpg
