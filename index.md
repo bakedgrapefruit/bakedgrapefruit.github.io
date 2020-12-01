@@ -1,19 +1,19 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "구운 자몽"
 main: true
-subtitle: Digital Product Designer Jihye Leee at RIDI
-description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.
+subtitle: A blog about Product Management and Marketing
+description: 
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm a Baked Grapefruit,
     </h1>
-    <h1 class="intro">a Digital Product Designer at 
+    <h1 class="intro">a Product Manager and Marketer at
         <div class="intro-link">
             <a class="transition" href="http://ridicorp.com/" target="_blank">
-                RIDI
+                WHERE
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
