@@ -7,6 +7,6 @@ marketing: true
 text: true
 author: "구운 자몽"
 post-header: true
-header-img: "img/ga.jpg"
+header-img: "img/GA.png"
 order: 1
 ---
