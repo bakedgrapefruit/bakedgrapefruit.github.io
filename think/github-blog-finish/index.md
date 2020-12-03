@@ -7,7 +7,7 @@ think: true
 text: true
 author: "구운 자몽"
 post-header: true
-header-img: "img/github.png"
+header-img: "img/github.jpg"
 order: 1
 ---
 ### 드디어 깃허브 블로그 성공
