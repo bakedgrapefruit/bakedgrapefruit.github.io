@@ -12,4 +12,4 @@ order: 2
 ---
 ## 1년 5개월
 
- <span class="evidence">형광펜이 칠해지는 영역</span> 일반 영역
+ <mark>형광펜이 칠해지는 영역</mark> 일반 영역
