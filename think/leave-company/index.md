@@ -12,5 +12,5 @@ order: 2
 ---
 ## 1년 5개월
 
- <mark>형광펜이 칠해지는 영역</mark> 일반 영역
+ <mark style="color:#FA5858">형광펜이 칠해지는 영역</mark> 일반 영역
 mark style="background-color: #cce0d6;"
