@@ -15,4 +15,4 @@ order: 3
 
 ---
 
-수많은 글들을 따라해도 실패하고 있을 때, 천금 같은 ![포스팅](http://www.halryang.net/embed-youtube-responsively/) 을 발견했다. 
+수많은 글들을 따라해도 실패하고 있을 때, 천금 같은 [포스팅](http://www.halryang.net/embed-youtube-responsively/) 을 발견했다. 
