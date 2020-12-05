@@ -43,4 +43,4 @@ GA에 필터를 적용하여 원하는 데이터만 따로 볼 수 있게 할 �
 
 이건 알아두면 좋을 내용이라 가져왔다. 출처는 [여기](https://analyticsmarketing.co.kr/digital-analytics/google-analytics-basics/2313/)
 
-![ga_filter_4](img/
+![ga_filter_4](img/ga_filter_4.png)
