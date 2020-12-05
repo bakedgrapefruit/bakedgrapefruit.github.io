@@ -23,4 +23,4 @@ order: 1
 화면도 점차 변경하고 카테고리도 계층화시키면 내가 생각한 블로그 형식에 맞아들어가겠지?<br>
 <span style="color:#FA5858">아무튼 서비스기획과 마케팅에 대한 단상이 차곡 쌓이길 바라며</span>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lONV30QAGHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/lONV30QAGHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
