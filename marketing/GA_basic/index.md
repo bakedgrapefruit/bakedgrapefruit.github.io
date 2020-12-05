@@ -12,7 +12,7 @@ order: 2
 ---
 ### Summary:
 구글 애널리틱스의 간단한 부분들을 정리해봤다. 개념과 기초에 대한 건 차근차근 공부하면서 정리를 하고, KPI/OKR은 더 찾아봐야겠다.
---
+---
 
 ## 전환/전환율
 
@@ -34,4 +34,4 @@ OKR은 달성하고자 하는 이상적인 목표(Objective)를 수립한 후 �
 
 ## GA 채널
 
-!(ga채널)[img/GA_channel.png]
+![ga_channel](img/GA_channel.png)
