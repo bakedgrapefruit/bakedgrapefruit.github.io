@@ -38,3 +38,9 @@ GA에 필터를 적용하여 원하는 데이터만 따로 볼 수 있게 할 �
 모바일/PC 기기를 구분하여 볼 수는 있긴 하지만 필터를 이용하면 따로 손 쓸 것 없이 편하게 기기 별로 데이터를 볼 수 있다. 아까처럼 필터 추가를 누르고 아래 이미지와 같이 설정하면 모바일 기기 카테고리 데이터만 따로 뽑아서 볼 수가 있다.
 
 ![ga_filter_3](img/GA_filter_3.png)
+
+---
+
+이건 알아두면 좋을 내용이라 가져왔다. 출처는 [여기](https://analyticsmarketing.co.kr/digital-analytics/google-analytics-basics/2313/)
+
+![ga_filter_4](img/
