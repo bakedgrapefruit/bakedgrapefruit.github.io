@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          구운 자몽
+title:          구운 자몽의 단상
 baseurl:        ""
 url:            "https://bakedgrapefruit.github.io"
 
