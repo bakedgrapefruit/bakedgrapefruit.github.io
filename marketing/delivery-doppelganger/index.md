@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "도플갱어"
-subtitle: "Steve jobs"
+subtitle: "배달의 민족에 적용한다면?"
 type: "Idea"
 marketing: true
 text: true
