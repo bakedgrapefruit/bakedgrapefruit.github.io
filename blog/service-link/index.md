@@ -11,4 +11,4 @@ header-img: ""
 order: 1
 ---
 
-## 1. ![보통의 서비스기획자 이야기](https://brunch.co.kr/magazine/uxsuperrookie)
+## 1. [보통의 서비스기획자 이야기](https://brunch.co.kr/magazine/uxsuperrookie)
