@@ -17,7 +17,9 @@ order: 4
 1. 고객들은 알기 원한다. '애플은 무엇인가"
 2. 우리가 상징하는건?
 3. 우리는 이 세상 어디에 속해 있는가? 더 나아가 왜 이 세상에 우리가 존재해야 하는가.
-  
+
+---  
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/EWSA7Lykvt4' frameborder='0' allowfullscreen></iframe></div>
 
 
