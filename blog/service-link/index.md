@@ -16,6 +16,6 @@ order: 1
 도그냥님이 쓰신 글은 다 읽어봤다. 쓰신 책도 구매해서 정리하며 읽었다. 공부하다가 막히면 틈틈 꺼내본다. 
 
 ![service_1](img/service_1.png)
-<center>위 브런치 매거진도 필수</center>
+<center><span style="color:#D8D8D8">위 브런치 매거진도 필수</span></center>
 
 
