@@ -27,7 +27,27 @@ order: 1
 
 ### 3. [imyeonn님의 깃허브 블로그](https://imyeonn.github.io/)
 
-IAㄱㅏ ㅈㅏㄹ ㅇㅣㅎㅐㄱㅏㄷㅗㅣㅈㅣ 
+IA가 잘 이해 안 될 때 헤매다가 이 블로그를 찾았다. 깃허브 블로그도 이 분 글을 보고 시작하게 됐고, 이커머스 관련 어떻게 공부하시는지 도움이 많이 됐던 사이트. 
+
+![service_3](img/service_3.png)
+
+### 4. [worknote](https://think-my.works/)
+
+짧은 기록들을 남겨두시지만 생각하게 되는 인사이트가 많은 곳. 기록이 이렇게나 중요하다. 어떤 관점으로 관찰하시는지 매우 궁금한 곳.
+
+![service_4](img/service_4.png)
+
+### 5. [by minieetea-스트레스를 받으면 기획자는 글을 씁니다.](http://minieetea.com/)
+
+글 중에 '기획자는 필요없다.'가 있는데 대단히 통쾌한 글. 몇 번이나 봐도 재밌는 글들이 많다.
+
+![service_5](img/service_5.png)
+
+### 6. [redbusbagman](https://redbusbagman.com/)
+
+디자이너 분들의 글도 많이 챙겨봐야겠다고 생각하다 추천받은 사이트. 너무나 유용하다. 읽다보면 관점이 넓어지는 기분을 느낀다.
+
+![service_6](img/service_6.png)
 
 
 
