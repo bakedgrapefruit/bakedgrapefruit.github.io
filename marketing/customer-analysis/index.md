@@ -7,7 +7,7 @@ marketing: true
 text: true
 author: "구운 자몽"
 post-header: true
-header-img: "https://www.apple.com/ac/ac-video-posterframe/4.0/images/ac_video_poster_960x540_2x.jpg"
+header-img: "https://b2twordpress-m4gv95qiadjztm1nqbkl.netdna-ssl.com/wp-content/uploads/2018/11/2018.11.16-Digital-Customer-Journey-Map.png"
 order: 6
 ---
 ### Summary:
