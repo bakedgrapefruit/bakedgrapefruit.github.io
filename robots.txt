@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bakedgrapefruit.github.io/sitemap.xml
