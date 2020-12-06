@@ -29,7 +29,7 @@ order: 1
 
 IA가 잘 이해 안 될 때 헤매다가 이 블로그를 찾았다. 깃허브 블로그도 이 분 글을 보고 시작하게 됐고, 이커머스 관련 어떻게 공부하시는지 도움이 많이 됐던 사이트. 
 
-![service_3](img/service_3.png)
+![service_3](img/sercive_3.png)
 
 ### 4. [worknote](https://think-my.works/)
 
@@ -41,10 +41,10 @@ IA가 잘 이해 안 될 때 헤매다가 이 블로그를 찾았다. 깃허브 
 
 글 중에 '기획자는 필요없다.'가 있는데 대단히 통쾌한 글. 몇 번이나 봐도 재밌는 글들이 많다.
 
-![service_5](img/service_5.png)
+![service_5](img/sercive_5.png)
 
 ### 6. [redbusbagman](https://redbusbagman.com/)
 
 디자이너 분들의 글도 많이 챙겨봐야겠다고 생각하다 추천받은 사이트. 너무나 유용하다. 읽다보면 관점이 넓어지는 기분을 느낀다.
 
-![service_6](img/service_6.png)
+![service_6](img/sercive_6.png)
