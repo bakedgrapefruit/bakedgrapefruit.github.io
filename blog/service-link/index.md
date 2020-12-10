@@ -7,27 +7,30 @@ blog: true
 text: true
 author: "구운 자몽"
 post-header: true
-header-img: "https://www.apple.com/ac/ac-video-posterframe/4.0/images/ac_video_poster_960x540_2x.jpg"
+header-img: "https://wallpaperaccess.com/full/1175458.jpg"
 order: 1
 ---
--[보통의 UX 기획자](https://brunch.co.kr/brunchbook/normaluxer)
 
--[이커머스 기획자의 사고여행](https://brunch.co.kr/brunchbook/ecommerce)
+## 항상 나에게 도움이 되는 사이트
 
--[보통의 서비스기획자 이야기](https://brunch.co.kr/magazine/uxsuperrookie)
+1. [보통의 UX 기획자](https://brunch.co.kr/brunchbook/normaluxer)
 
--[김이서의 마케팅 인사이트](https://brunch.co.kr/@yi-seo/99)
+2. [이커머스 기획자의 사고여행](https://brunch.co.kr/brunchbook/ecommerce)
 
--[서비스기회자의 앱 크리틱 탐구](https://brunch.co.kr/magazine/app-critique)
+3. [보통의 서비스기획자 이야기](https://brunch.co.kr/magazine/uxsuperrookie)
 
--[일상에서 서비스기획 공부하기](https://brunch.co.kr/magazine/study-ux)
+4. [김이서의 마케팅 인사이트](https://brunch.co.kr/@yi-seo/99)
 
--[imyeonn](https://imyeonn.github.io/)
+5. [서비스기회자의 앱 크리틱 탐구](https://brunch.co.kr/magazine/app-critique)
 
--[지금 써보러 갑니다.](http://icunow.co.kr/)
+6. [일상에서 서비스기획 공부하기](https://brunch.co.kr/magazine/study-ux)
 
--[IT기획 연구소](https://yslab.kr/)
+7. [imyeonn](https://imyeonn.github.io/)
 
--[worknote](https://think-my.works/)
+8. [지금 써보러 갑니다.](http://icunow.co.kr/)
 
--[스트레스를 받으면 기획자는 글을 씁니다.](http://minieetea.com/)
+9. [IT기획 연구소](https://yslab.kr/)
+
+10. [worknote](https://think-my.works/)
+
+11. [스트레스를 받으면 기획자는 글을 씁니다.](http://minieetea.com/)
