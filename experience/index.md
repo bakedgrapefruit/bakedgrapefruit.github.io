@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Experience"
-description: 순간을 연결하여 함께 할 수 있는 가치를 찾아요.
+description: 갖가지 경험들
 main: true
 project-header: true
 header-img: img/about.jpg
