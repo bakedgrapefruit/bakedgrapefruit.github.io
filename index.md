@@ -13,7 +13,7 @@ description: 잘 구워지고 있는지 살펴보세요.
     <h1 class="intro">WHY DO PEOPLE 
         <div class="intro-link">
             <a class="transition" href="https://www.spaceflightinsider.com/wp-content/uploads/2019/06/48124939298_5d6eeba325_o.jpg" target="_blank">
-                Dream
+                DREAM
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
