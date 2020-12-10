@@ -3,7 +3,7 @@ layout: post
 title:  "첫 퇴사"
 subtitle: "회고록"
 type: "Company"
-marketing: true
+think: true
 text: true
 author: "구운 자몽"
 post-header: true
