@@ -8,7 +8,7 @@ text: true
 author: "구운 자몽"
 post-header: true
 header-img: "https://media.emailonacid.com/wp-content/uploads/2018/08/2018_ContactMonkeyNewsletter_Blog.jpg"
-order: 4
+order: 1
 ---
 
 ### 사람들은 뉴스레터를 왜 구독하는걸까?
