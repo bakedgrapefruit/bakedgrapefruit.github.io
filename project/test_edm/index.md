@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "edm test"
-subtitle: "ㅅㄷㄴㅅ"
+subtitle: "test"
 type: "Study"
 project: true
 text: true
